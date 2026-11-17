@@ -1,0 +1,6 @@
+path: C:\Users\Alina\OneDrive\Desktop\ÑV\Deep-Learning-for-Computer-Vision\Labs\Obj_detection\Lab11\work\pennfudan_yolo
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: pedestrian
